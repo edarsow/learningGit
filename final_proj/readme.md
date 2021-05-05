@@ -16,11 +16,11 @@ About 250 words summarizing your goal, analysis steps, and conclusions. Hint: Wr
 US Homeland Security provides a comprehensive dataset of all power stations in the US as a [ESRI shapefile](https://hifld-geoplatform.opendata.arcgis.com/datasets/ee0263bd105d41599be22d46107341c3_0?geometry=124.651%2C-16.847%2C-150.622%2C72.114)
 
 ## Analysis Steps
-11. directory setup
-I created a simple directory structure for organizing project data:
-
+### directory setup
 ![directory structure](img/dir.png)
 
+1. directory setup
+2. created a simple directory structure for organizing project data:
 11. gather data
 11. analyze results
 11. change the world!
